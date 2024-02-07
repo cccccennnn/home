@@ -6,7 +6,12 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
+    "name": "Cloudreve",
+    "link": "https://cloud.2454188.xyz/"
+  },
+  {
+    "icon": "Book",
+    "name": "Alist",
     "link": "https://cloud.2454188.xyz/"
   },
   {
@@ -17,6 +22,6 @@
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://kuma.cccccen.eu.org/"
+    "link": "https://tz.cccccen.eu.org/"
   }
 ]
